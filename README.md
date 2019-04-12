@@ -1,6 +1,3 @@
-# PPIR
-PPIR
-
 # About PPIR
 
 This is the website of the project: **A scalable privacy-preserving information retrieval system based on federated
