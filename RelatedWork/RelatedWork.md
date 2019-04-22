@@ -8,6 +8,7 @@
 2018 - [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017)
 
 -> The open-sourced library: [PySyft](https://github.com/OpenMined/PySyft) 
+-> Comprehensive tutorials: [Privacy Preserving Deep Learning with PyTorch & PySyft](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
 
 [Privacy-Preserving Machine Learning 2018: A Year in Review](https://medium.com/dropoutlabs/privacy-preserving-machine-learning-2018-a-year-in-review-b6345a95ae0f)
 
