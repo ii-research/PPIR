@@ -6,7 +6,20 @@
 
 #### Journal Papers
 
+- Hai-Tao Yu; Degen Huang; Fuji Ren; Lishuang Li. Diagnostic Evaluation of Policy-Gradient-Based Ranking. Electronics, 2022.
+
 #### Conference Papers
+
+- Hai-Tao Yu. Optimize What You EvaluateWith: Search Result Diversification Based on Metric Optimization. The 36th AAAI Conference on Artificial Intelligence, 2022. (CORE-rank: A*, Acceptance rate: 14.6%≈1349/9251 submissions)
+
+- Fei Ding, Xin Kang, Yunong Wu, Fuji Ren. TUA1 at the NTCIR-16 DialEval-2 Task. The 16th NTCIR Conference on Evaluation of Information Access Technologies, 2022.
+
+- Jiexin Wang, Adam Jatowt, Masatoshi Yoshikawa. Event Occurrence Date Estimation based on Multivariate Time Series Analysis over Temporal Document Collections. The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021. (CORE-rank: A*, Full paper acceptance rate: 21.0%≈151/720 submissions)
+
+- Fumiyuki Kato, Yang Cao, Masatoshi Yoshikawa. Preventing Manipulation Attack in Local Differential Privacy using Verifiable Randomization Mechanism. The IFIP Annual Conference on Data and Applications Security and Privacy, 2021.
+
+- Yusuke Kubono, Xin Kang, Fuji Ren, Shun Nishide. Prediction and Generation of Multiple Complex Drawing Figures From Partial Drawing Sequences. The IEEE 13th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM), 2021.
+
 
 ### <a name="2020"></a>FY-2020
 
@@ -18,7 +31,7 @@
 
 - Naoya Muramatsu, Hai-Tao Yu. Combining Spiking Neural Network and Artificial Neural Network for Enhanced Image Classification. 第13回データ工学と情報マネジメントに関するフォーラム, 2021.
 - Hai-Tao Yu. Neural Learning-to-Rank. 言語処理学会第27回年次大会ワークショップ: クリエイティブAIが会話型AIと出会うとき, 2021.
-- Ruixuan, Liu and Yang Cao and Hong, Chen and Ruoyang, Guo and Masatoshi, Yoshikawa. FLAME: Differentially Private Federated Learning in the Shuffle Model. The 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021.
+- Ruixuan, Liu and Yang Cao and Hong, Chen and Ruoyang, Guo and Masatoshi, Yoshikawa. FLAME: Differentially Private Federated Learning in the Shuffle Model. The 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021. (CORE-rank: A*, Acceptance rate: 21.4%≈1692/7911 submissions)
 - Muramoto Naoki, Hai-Tao Yu. Deep Metric Learning Based on Rank-sensitive Optimization of Top-k Precision. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 - Ruixuan, Liu and Yang Cao and Masatoshi, Yoshikawa and Hong, Chen. FedSel: Federated SGD Under Local Differential Privacy with Top-k Dimension Selection. Database Systems for Advanced Applications (DASFAA 2020), 2020.
 
