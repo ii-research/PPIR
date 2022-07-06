@@ -30,7 +30,7 @@ International Joint Conference on Neural Networks (IJCNN), 2022.
 
 #### Conference Papers
 
-- Hai-Tao Yu. Optimize What You EvaluateWith: Search Result Diversification Based on Metric Optimization. The 36th AAAI Conference on Artificial Intelligence, 2022. (CORE-rank: A*, Acceptance rate: 14.6%≈1349/9251 submissions)
+- Hai-Tao Yu. Optimize What You EvaluateWith: Search Result Diversification Based on Metric Optimization. The 36th AAAI Conference on Artificial Intelligence, 36(9), 10399-10407, 2022. (CORE-rank: A*, Acceptance rate: 14.6%≈1349/9251 submissions)
 
 - Fei Ding, Xin Kang, Yunong Wu, Fuji Ren. TUA1 at the NTCIR-16 DialEval-2 Task. The 16th NTCIR Conference on Evaluation of Information Access Technologies, 2022.
 
