@@ -1,7 +1,27 @@
+- <a href="#2021">FY-2022</a>
 - <a href="#2021">FY-2021</a>
 - <a href="#2020">FY-2020</a>
 - <a href="#2019">FY-2019</a>
 
+
+### <a name="2022"></a>FY-2022
+
+#### Journal Papers
+
+- Yijun Duan, Xin Liu, Adam Jatowt, Hai-tao Yu, Steven Lynden, Kyoung-Sook Kim, Akiyoshi Matono. Long-tailed Graph Representation Learning via Dual Cost-sensitive 
+Graph Convolutional Network. Remote Sensing, 2022.
+
+- Yijun Duan, Xin Liu, Adam Jatowt, Hai-Tao Yu, Steven Lynden, Kyoung-Sook Kim, and Akiyoshi Matono. Multi-view Actionable Knowledge Graph Generation from Wikipedia Biographies. IEEE Access: The Multidisciplinary Open Access Journal, 2022.
+
+#### Conference Papers
+
+- Lirong Zhang, Hideo Joho and Hai-Tao Yu. Semantic Modelling of Document Focus-time for Temporal Information Retrieval. 
+In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion): 12th International Workshop on Temporal Web Analytics (TempWeb), 2022.
+- Yijun Duan, Xin Liu, Adam Jatowt, Hai-Tao Yu, Steven Lynden, Kyoung-Sook Kim, and Akiyoshi Matono. Dual Cost-sensitive Graph Convolutional Network Learning for Imbalanced Graph Node Classification. 
+International Joint Conference on Neural Networks (IJCNN), 2022.
+- Xin Kang, Rongyu Dou and Haitao Yu. TUA1 at eRisk 2022: Exploring Affective Memories for Early Detection of Depression, Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022), 2022.
+- Yijun Duan, Xin Liu, Adam Jatowt, Hai-Tao Yu, Steven Lynden, Kyoung-Sook Kim, and Akiyoshi Matono. Anonymity Can Help Minority: A Novel Synthetic Data Over-sampling Strategy on Multi-label Graphs. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
+- 
 ### <a name="2021"></a>FY-2021
 
 #### Journal Papers
