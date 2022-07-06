@@ -21,7 +21,7 @@ In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion): 12th 
 International Joint Conference on Neural Networks (IJCNN), 2022.
 - Xin Kang, Rongyu Dou and Haitao Yu. TUA1 at eRisk 2022: Exploring Affective Memories for Early Detection of Depression, Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022), 2022.
 - Yijun Duan, Xin Liu, Adam Jatowt, Hai-Tao Yu, Steven Lynden, Kyoung-Sook Kim, and Akiyoshi Matono. Anonymity Can Help Minority: A Novel Synthetic Data Over-sampling Strategy on Multi-label Graphs. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
-- 
+
 ### <a name="2021"></a>FY-2021
 
 #### Journal Papers
