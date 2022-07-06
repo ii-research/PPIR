@@ -30,10 +30,14 @@
 #### Conference Papers
 
 - Naoya Muramatsu, Hai-Tao Yu. Combining Spiking Neural Network and Artificial Neural Network for Enhanced Image Classification. 第13回データ工学と情報マネジメントに関するフォーラム, 2021.
-- Hai-Tao Yu. Neural Learning-to-Rank. 言語処理学会第27回年次大会ワークショップ: クリエイティブAIが会話型AIと出会うとき, 2021.
 - Ruixuan, Liu and Yang Cao and Hong, Chen and Ruoyang, Guo and Masatoshi, Yoshikawa. FLAME: Differentially Private Federated Learning in the Shuffle Model. The 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021. (CORE-rank: A*, Acceptance rate: 21.4%≈1692/7911 submissions)
 - Muramoto Naoki, Hai-Tao Yu. Deep Metric Learning Based on Rank-sensitive Optimization of Top-k Precision. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 - Ruixuan, Liu and Yang Cao and Masatoshi, Yoshikawa and Hong, Chen. FedSel: Federated SGD Under Local Differential Privacy with Top-k Dimension Selection. Database Systems for Advanced Applications (DASFAA 2020), 2020.
+
+#### Invited Talk
+
+- Hai-Tao Yu. Neural Learning-to-Rank. 言語処理学会第27回年次大会ワークショップ: クリエイティブAIが会話型AIと出会うとき, 2021.
+
 
 ### <a name="2019"></a>FY-2019
 
