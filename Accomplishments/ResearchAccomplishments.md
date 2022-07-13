@@ -30,7 +30,7 @@ International Joint Conference on Neural Networks (IJCNN), 2022.
 
 #### Conference Papers
 
-- Hai-Tao Yu. Optimize What You EvaluateWith: Search Result Diversification Based on Metric Optimization. The 36th AAAI Conference on Artificial Intelligence, 36(9), 10399-10407, 2022. (CORE-rank: A*, Acceptance rate: 14.6%≈1349/9251 submissions)
+- Hai-Tao Yu. Optimize What You EvaluateWith: Search Result Diversification Based on Metric Optimization. The 36th AAAI Conference on Artificial Intelligence, 36(9), 10399-10407, 2022. (**CORE-rank: A*, Acceptance rate: 14.6%≈1349/9251 submissions**)
 
 - Fei Ding, Xin Kang, Yunong Wu, Fuji Ren. TUA1 at the NTCIR-16 DialEval-2 Task. The 16th NTCIR Conference on Evaluation of Information Access Technologies, 2022.
 
@@ -50,7 +50,7 @@ International Joint Conference on Neural Networks (IJCNN), 2022.
 #### Conference Papers
 
 - Naoya Muramatsu, Hai-Tao Yu. Combining Spiking Neural Network and Artificial Neural Network for Enhanced Image Classification. 第13回データ工学と情報マネジメントに関するフォーラム, 2021.
-- Ruixuan, Liu and Yang Cao and Hong, Chen and Ruoyang, Guo and Masatoshi, Yoshikawa. FLAME: Differentially Private Federated Learning in the Shuffle Model. The 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021. (CORE-rank: A*, Acceptance rate: 21.4%≈1692/7911 submissions)
+- Ruixuan, Liu and Yang Cao and Hong, Chen and Ruoyang, Guo and Masatoshi, Yoshikawa. FLAME: Differentially Private Federated Learning in the Shuffle Model. The 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021. (**CORE-rank: A*, Acceptance rate: 21.4%≈1692/7911 submissions**)
 - Muramoto Naoki, Hai-Tao Yu. Deep Metric Learning Based on Rank-sensitive Optimization of Top-k Precision. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 - Ruixuan, Liu and Yang Cao and Masatoshi, Yoshikawa and Hong, Chen. FedSel: Federated SGD Under Local Differential Privacy with Top-k Dimension Selection. Database Systems for Advanced Applications (DASFAA 2020), 2020.
 
