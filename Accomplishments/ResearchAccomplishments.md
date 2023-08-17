@@ -1,17 +1,26 @@
-- <a href="#2021">FY-2022</a>
+- <a href="#2022">FY-2023</a>
+- <a href="#2022">FY-2022</a>
 - <a href="#2021">FY-2021</a>
 - <a href="#2020">FY-2020</a>
 - <a href="#2019">FY-2019</a>
 
+### <a name="2023"></a>FY-2023
+
+#### Conference Papers
+- Steven Lynden, Mehari Yohannes Hailemariam, Kyoung-Sook Kim, Adam Jatowt, Akiyoshi Matono, Hai-Tao Yu, Xin Liu and Yijun Duan. Commonsense Temporal Action Knowledge (CoTAK) Dataset. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management(CIKM), 2023.
+- Yijun Duan, Xin Liu, Adam Jatowt, Hai-tao Yu, Steven Lynden, Kyoung-Sook Kim, Akiyoshi Matono. What Wikipedia Misses about Yuriko Nakamura? Predicting Missing Biography Content by Learning Latent Life Patterns. Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), 2023.
 
 ### <a name="2022"></a>FY-2022
 
 #### Journal Papers
 
+- Hai-Tao, Yu;Piryani, Rajesh;Jatowt, Adam;Inagaki, Ryo;Hideo, Joho;Kim, Kyoung-Sook. An In-Depth Study on Adversarial Learning-to-Rank. Information Retrieval Journal/26(1), 2023.
+- Naoya, Muramatsu;Hai-Tao, Yu;Tetsuji, SATOH. Combining Spiking Neural Networks with Artificial Neural Networks for Enhanced Image Classification. IEICE TRANSACTIONS on Information and Systems/E106-D(2)/pp.252-261, 2023.
 - Yijun Duan, Xin Liu, Adam Jatowt, Hai-tao Yu, Steven Lynden, Kyoung-Sook Kim, Akiyoshi Matono. Long-tailed Graph Representation Learning via Dual Cost-sensitive 
 Graph Convolutional Network. Remote Sensing, 2022.
 
 - Yijun Duan, Xin Liu, Adam Jatowt, Hai-Tao Yu, Steven Lynden, Kyoung-Sook Kim, and Akiyoshi Matono. Multi-view Actionable Knowledge Graph Generation from Wikipedia Biographies. IEEE Access: The Multidisciplinary Open Access Journal, 2022.
+- Duan, Yijun; Liu, Xin; Jatowt, Adam; Yu, Hai-tao; Lynden, Steven; Kim, Kyoung-Sook; Matono, Akiyoshi. SORAG: Synthetic Data Over-Sampling Strategy on Multi-Label Graphs. Remote Sensing/14(18), 2022.
 
 #### Conference Papers
 
