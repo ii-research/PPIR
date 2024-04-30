@@ -6,9 +6,17 @@
 
 ### <a name="2023"></a>FY-2023
 
+#### Journal Papers
+- Rongyu Dou and Xin Kang. “TAM-SenticNet: A Neuro-Symbolic AI Approach for Early Depression Detection via Social Media Analysis.” Computers and Electrical Engineering, Vol. 114 (2024): 1-10. 
+- Yangyang Zhou, Xin Kang and Fuji Ren. “Prompt Consistency for Multi-label Textual Emotion Detection.” IEEE Transactions on Affective Computing, Vol. 15, No. 1 (2023): 121-129.
+- Fei Ding, Xin Kang, Satoshi Nakagawa and Fuji Ren. "Neuro or Symbolic? Fine-tuned Transformer with Unsupervised LDA Topic Clustering for Text Sentiment Analysis." IEEE Transactions on Affective Computing, Early Access (2023).
+
 #### Conference Papers
-- Steven Lynden, Mehari Yohannes Hailemariam, Kyoung-Sook Kim, Adam Jatowt, Akiyoshi Matono, Hai-Tao Yu, Xin Liu and Yijun Duan. Commonsense Temporal Action Knowledge (CoTAK) Dataset. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management(CIKM), 2023.
-- Yijun Duan, Xin Liu, Adam Jatowt, Hai-tao Yu, Steven Lynden, Kyoung-Sook Kim, Akiyoshi Matono. What Wikipedia Misses about Yuriko Nakamura? Predicting Missing Biography Content by Learning Latent Life Patterns. Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), 2023.
+- Haonan Tan; Kaiyu Yang; Hai-Tao Yu. An In-depth Comparison of Neural and Probabilistic Tree Models For Learning-to-Rank. Proceedings of The 46th European Conference on Information Retrieval (ECIR), 2024.
+- Lingzhen Zheng; Kaiyu Yang; Hai-Tao Yu; Sumio Fujita; Hideo Joho. University of Tsukuba Team at the TREC 2023 Interactive Knowledge Assistance Track. Proceedings of the Thirty-Second Text REtrieval Conference (TREC 2023), 2023.
+- Kaiyu Yang; Lingzhen Zheng; Hai-Tao Yu; Sumio Fujita; Hideo Joho. University of Tsukuba Team at the TREC 2023 Deep Learning Track. Proceedings of The Thirty-Second Text REtrieval Conference (TREC 2023), 2023.
+- Yamane Daichi and Xin Kang. “TUA1 at NTCIR-17 FinArg-1 Task.” The 17th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-17), pp. 45-49, Tokyo, Japan, December 2023.
+- Yuxiang Zhou, Xin Kang, Fuji Ren, Satoshi Nakagawa, and Xiao Shan. “DEU-Net: Dual Encoder U-Net for 3D Medical Image Segmentation.” The 22nd International Conference on Computer and Information Technology (CIT 2023), pp. 1-7, Chengdu, China, November 2023.
 
 ### <a name="2022"></a>FY-2022
 
