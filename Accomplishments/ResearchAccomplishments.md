@@ -10,6 +10,8 @@
 - Rongyu Dou and Xin Kang. “TAM-SenticNet: A Neuro-Symbolic AI Approach for Early Depression Detection via Social Media Analysis.” Computers and Electrical Engineering, Vol. 114 (2024): 1-10. 
 - Yangyang Zhou, Xin Kang and Fuji Ren. “Prompt Consistency for Multi-label Textual Emotion Detection.” IEEE Transactions on Affective Computing, Vol. 15, No. 1 (2023): 121-129.
 - Fei Ding, Xin Kang, Satoshi Nakagawa and Fuji Ren. "Neuro or Symbolic? Fine-tuned Transformer with Unsupervised LDA Topic Clustering for Text Sentiment Analysis." IEEE Transactions on Affective Computing, Early Access (2023).
+- Ryota Hiraishi, Masatoshi Yoshikawa, Yang Cao, Sumio Fujita, Hidehito Gomi. Mechanisms to Address Different Privacy Requirements for Users and Locations. IEICE TRANSACTIONS on Information and Systems, 106, 2036-2047, 2023.
+- Hisaichi Shibata, Shouhei Hanaoka, Yang Cao, Masatoshi Yoshikawa, Tomomi Takenaga, Yukihiro Nomura, Naoto Hayashi, Osamu Abe. Local Differential Privacy Image Generation Using Flow-Based Deep Generative Models. Applied Sciences, 13, 10132, 2023.
 
 #### Conference Papers
 - Haonan Tan; Kaiyu Yang; Hai-Tao Yu. An In-depth Comparison of Neural and Probabilistic Tree Models For Learning-to-Rank. Proceedings of The 46th European Conference on Information Retrieval (ECIR), 2024.
@@ -17,6 +19,9 @@
 - Kaiyu Yang; Lingzhen Zheng; Hai-Tao Yu; Sumio Fujita; Hideo Joho. University of Tsukuba Team at the TREC 2023 Deep Learning Track. Proceedings of The Thirty-Second Text REtrieval Conference (TREC 2023), 2023.
 - Yamane Daichi and Xin Kang. “TUA1 at NTCIR-17 FinArg-1 Task.” The 17th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-17), pp. 45-49, Tokyo, Japan, December 2023.
 - Yuxiang Zhou, Xin Kang, Fuji Ren, Satoshi Nakagawa, and Xiao Shan. “DEU-Net: Dual Encoder U-Net for 3D Medical Image Segmentation.” The 22nd International Conference on Computer and Information Technology (CIT 2023), pp. 1-7, Chengdu, China, November 2023.
+- Ruixuan Liu, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong. Supporting Pandemic Preparedness with Privacy Enhancing Technology. The 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA), 2023.
+- Jiexin Wang, Adam Jatowt, Masatoshi Yoshikawa, Yi Cai. BiTimeBERT: Extending Pre-Trained Language Representations with Bi-Temporal Information. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2023.
+- Shang Liu, Yang Cao, Masatoshi Yoshikawa. Federated Graph Analytics with Differential Privacy. International Workshop on Federated Learning for Distributed Data Mining, 2023.
 
 ### <a name="2022"></a>FY-2022
 
